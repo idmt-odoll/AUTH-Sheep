@@ -13,5 +13,8 @@ Additionally we created new oriented bounding box annotations for the raw versio
 
 ### IMPORTANT NOTE: AUTH-SHeep will be published later (probably on Zenodo) and linked here. 
 
+## License
+This work is licensed as [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ### Acknowledgements
 Funded by HORIZON Europe HE-2022: SPADE – 101060778 ©2023 IEEE.
