@@ -11,7 +11,8 @@ The track IDs are consistent per video, even after occlusion or reentering the f
 Additionally we created new oriented bounding box annotations for the raw version of the [SheepCounter dataset](https://universe.roboflow.com/riisprivate/sheepcounter/dataset/11).
 
 
-### IMPORTANT NOTE: AUTH-SHeep will be published later (probably on Zenodo) and linked here. 
+### IMPORTANT NOTE: 
+The AUTH-Sheep dataset can be found under [this zenodo link](https://zenodo.org/records/13843376)
 
 ## License
 This work is licensed as [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/deed.en).
